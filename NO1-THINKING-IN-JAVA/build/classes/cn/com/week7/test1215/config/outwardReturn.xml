@@ -1,0 +1,6 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<controls>
+	<control id = "header" ref = "src/cn/com/week7/test1215/config/header.xml" />
+	<control id = "body" ref = "src/cn/com/week7/test1215/config/body.xml" />
+	<control id = "tail" ref = "src/cn/com/week7/test1215/config/tail.xml" />
+</controls>

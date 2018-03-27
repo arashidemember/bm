@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<message>
+	<myString  id = "result"  length="1"></myString>
+	<myString  id = "date"  length="8"></myString>
+</message>

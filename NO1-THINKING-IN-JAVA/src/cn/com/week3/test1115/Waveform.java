@@ -1,0 +1,9 @@
+package cn.com.week3.test1115;
+
+public class Waveform {
+	private static long counter;
+	private final long id = counter++;
+	public String toString() {
+		return "Waveform" + id;
+	}
+}
